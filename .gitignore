@@ -1,9 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-#Assets
-.uasset
-
 # Compiled Object files
 *.slo
 *.lo
@@ -75,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.uasset
+*.ucas
+*.pdb
+*.pdb
+Platformer_Gameplay/Saved/StagedBuilds/Windows/Engine/Binaries/Win64/UnrealGame.pdb

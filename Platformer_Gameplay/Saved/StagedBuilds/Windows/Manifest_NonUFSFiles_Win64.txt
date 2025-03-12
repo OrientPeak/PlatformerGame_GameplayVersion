@@ -26,4 +26,4 @@ Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll	202
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json	2024-09-17T17:00:29.829Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll	2024-09-17T17:00:29.949Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json	2024-09-17T17:00:29.950Z
-Platformer_Gameplay.exe	2024-12-06T15:05:34.809Z
+Platformer_Gameplay.exe	2024-12-22T14:13:31.624Z
