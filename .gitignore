@@ -77,3 +77,7 @@ DerivedDataCache/*
 *.pdb
 *.pdb
 Platformer_Gameplay/Saved/StagedBuilds/Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Platformer_Gameplay/Saved/StagedBuilds/Windows/Platformer_Gameplay/Content/Paks/Platformer_Gameplay-Windows.ucas
+Platformer_Gameplay/Saved/StagedBuilds/Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Platformer_Gameplay/Saved/StagedBuilds/Windows/Platformer_Gameplay/Content/Paks/Platformer_Gameplay-Windows.ucas
+Platformer_Gameplay/Saved/StagedBuilds/Windows/Engine/Binaries/Win64/UnrealGame.pdb
